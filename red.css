@@ -23,3 +23,10 @@ div {
   top: 60px;
   left: 20%;
 }
+
+.box_head {
+  position: relative;
+  top: -35px;
+  height:35px;
+  width: 150px;
+}
