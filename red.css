@@ -36,3 +36,7 @@ h3 {
   background-repeat: repeat-x;
   background-position: bottom;
 }
+
+#endless_laughter {
+  transform: scale(10);
+}
