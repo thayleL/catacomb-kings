@@ -35,6 +35,7 @@ h3 {
   height:35px;
   width: 150px;
   border: 2px solid #f00;
+  border-bottom: none;
 }
 
 .head_button_collapse {
