@@ -43,3 +43,9 @@ h3 {
   color: #f00;
   border: none;
 }
+
+#bloodfooter {
+  position: absolute;
+  bottom: 22px;
+  background-size: 100% auto;
+}
