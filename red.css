@@ -39,6 +39,8 @@ h3 {
 }
 
 #forever_laugh {
+  position: relative;
+  top: 300px;
   text-align: center;
   transform: scale(1.5, 20);
   margin-block-end: 0px;
