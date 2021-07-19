@@ -27,6 +27,9 @@ h3 {
   height: 300px;
   top: 20%;
   left: 20%;
+  background-image: url("bloodbar2.gif");
+  background-repeat: repeat-x;
+  background-position: bottom;
 }
 
 .page_frame {
