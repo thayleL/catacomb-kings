@@ -29,19 +29,3 @@ h3 {
   top: 20%;
   left: 20%;
 }
-
-.box_head {
-  position: relative;
-  top: -311px;
-  left: 0%;
-  height:35px;
-  width: 150px;
-  border: 2px solid #f0f;
-  border-bottom: none;
-}
-
-.head_button_collapse {
-  background-color: #000;
-  color: #f0f;
-  border: none;
-}
