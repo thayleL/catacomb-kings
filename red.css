@@ -47,5 +47,6 @@ h3 {
 #bloodfooter {
   position: fixed;
   bottom: 1px;
+  background-image: "bloodbar2.gif";
   background-repeat: repeat-x;
 }
