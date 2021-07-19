@@ -24,7 +24,7 @@ h3 {
   position: fixed;
   width: 300px;
   height: 300px;
-  top: 60px;
+  top: 20%;
   left: 20%;
 }
 
@@ -45,7 +45,7 @@ h3 {
 }
 
 #bloodfooter {
-  position: absolute;
-  bottom: 22px;
+  position: fixed;
+  bottom: 1px;
   background-size: 100% auto;
 }
