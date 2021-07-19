@@ -3,6 +3,7 @@ body {
   color: #f08;
   font-family: "Times New Roman", sans-serif;
   background-image: url("bloodbar2.gif");
+  background-repeat: repeat-x;
 }
 
 div {
