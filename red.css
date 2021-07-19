@@ -32,6 +32,6 @@ h3 {
 .page_frame {
   width: 1500px;
   height: 600px;
-  background-image: url("kill bg.gif")
+  background-image: url("kill bg.png")
   overflow: hidden;
 }
