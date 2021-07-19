@@ -38,5 +38,6 @@ h3 {
 }
 
 #endless_laughter {
-  transform: scale(10);
+  transform: scale(0.5, 20);
+  overflow: hidden;
 }
