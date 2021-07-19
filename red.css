@@ -4,6 +4,7 @@ body {
   font-family: "Times New Roman", sans-serif;
   background-image: url("bloodbar2.gif");
   background-repeat: repeat-x;
+  background-position: bottom;
 }
 
 div {
