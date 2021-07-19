@@ -40,5 +40,5 @@ h3 {
 
 #forever_laugh {
   transform: scale(1.5, 20);
-  margin: 0px;
+  margin-block-end: 0px;
 }
