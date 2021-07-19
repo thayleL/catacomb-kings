@@ -3,13 +3,13 @@ body {
   color: #f00;
   font-family: "Times New Roman", sans-serif;
   background-image: "bloodbar2.gif";
-  background-repeat: repeat-x;
 }
 
 div {
   border-top: 2px solid #f00;
   background-color: #000;
   text-align: justify;
+  background-image: url("bloodbar2.gif");
 }
 
 h3 {
