@@ -16,7 +16,7 @@ div {
   border-bottom: 16px solid #830000;
 }
 
-#box_main {
+.box_main {
   position: fixed;
   width: 300px;
   height: 300px;
