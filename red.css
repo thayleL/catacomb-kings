@@ -47,5 +47,5 @@ h3 {
 #bloodfooter {
   position: fixed;
   bottom: 1px;
-  background-size: 100%;
+  background-repeat: repeat-x;
 }
