@@ -1,12 +1,12 @@
 body {
   background-color: #380000;
-  color: #f00;
+  color: #f08;
   font-family: "Times New Roman", sans-serif;
   background-image: url("bloodbar2.gif");
 }
 
 div {
-  border: 3px solid #f08;
+  border: 3px solid #f0f;
   background-color: #000;
   text-align: justify;
 }
@@ -35,12 +35,12 @@ h3 {
   left: 0%;
   height:35px;
   width: 150px;
-  border: 2px solid #f08;
+  border: 2px solid #f0f;
   border-bottom: none;
 }
 
 .head_button_collapse {
   background-color: #000;
-  color: #f08;
+  color: #f0f;
   border: none;
 }
