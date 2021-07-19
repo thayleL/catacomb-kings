@@ -32,13 +32,6 @@ h3 {
 .page_frame {
   width: 1500px;
   height: 600px;
-  background-image: url("bloodbar2.gif");
-  background-repeat: repeat-x;
-  background-position: bottom;
+  background-image: url("kill bg.gif")
   overflow: hidden;
-}
-
-#forever_laugh {
-  width: 100%;
-  text-height: 100%;
 }
