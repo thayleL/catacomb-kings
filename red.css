@@ -6,7 +6,7 @@ body {
 }
 
 div {
-  border: 3px solid #f00;
+  border: 3px solid #f08;
   background-color: #000;
   text-align: justify;
 }
@@ -35,12 +35,12 @@ h3 {
   left: 0%;
   height:35px;
   width: 150px;
-  border: 2px solid #f00;
+  border: 2px solid #f08;
   border-bottom: none;
 }
 
 .head_button_collapse {
   background-color: #000;
-  color: #f00;
+  color: #f08;
   border: none;
 }
