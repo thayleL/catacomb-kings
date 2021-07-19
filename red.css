@@ -21,6 +21,7 @@ h3 {
 }
 
 .box_main {
+  z-index: 0;
   position: fixed;
   width: 300px;
   height: 300px;
@@ -35,4 +36,7 @@ h3 {
   height:35px;
   width: 150px;
   z-index: -1;
+}
+
+.head_button_collapse {
 }
