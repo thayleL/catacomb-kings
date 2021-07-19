@@ -35,9 +35,9 @@ h3 {
   background-image: url("bloodbar2.gif");
   background-repeat: repeat-x;
   background-position: bottom;
+  overflow: hidden;
 }
 
 #forever_laugh {
   transform: scale(0.5, 20);
-  overflow: hidden;
 }
