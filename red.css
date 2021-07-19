@@ -30,6 +30,8 @@ h3 {
 }
 
 .page_frame {
+  width: 1500px;
+  height: 1000px;
   background-image: url("bloodbar2.gif");
   background-repeat: repeat-x;
   background-position: bottom;
