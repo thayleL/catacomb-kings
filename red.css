@@ -21,7 +21,6 @@ h3 {
 }
 
 .box_main {
-  z-index: 2;
   position: fixed;
   width: 300px;
   height: 300px;
@@ -35,10 +34,11 @@ h3 {
   left: 0%;
   height:35px;
   width: 150px;
-  z-index: 1;
+  border: 2px solid #f00;
 }
 
 .head_button_collapse {
   background-color: #000;
   color: #f00;
+  border: none;
 }
