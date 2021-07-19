@@ -11,6 +11,11 @@ div {
   text-align: justify;
 }
 
+.lore {
+  border-top: 16px solid #380000;
+  border-bottom: 16px solid #380000;
+}
+
 #box_main {
   position: fixed;
   width: 300px;
