@@ -39,5 +39,6 @@ h3 {
 }
 
 #forever_laugh {
+  padding: 0px;
   transform: scale(1.5, 20);
 }
