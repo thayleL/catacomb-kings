@@ -2,14 +2,13 @@ body {
   background-color: #380000;
   color: #f00;
   font-family: "Times New Roman", sans-serif;
-  background-image: "bloodbar2.gif";
+  background-image: url("bloodbar2.gif");
 }
 
 div {
   border-top: 2px solid #f00;
   background-color: #000;
   text-align: justify;
-  background-image: url("bloodbar2.gif");
 }
 
 h3 {
