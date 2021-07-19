@@ -26,7 +26,8 @@ div {
 
 .box_head {
   position: relative;
-  top: -335px;
+  top: -355px;
+  left: 0%;
   height:35px;
   width: 150px;
 }
